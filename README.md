@@ -1,4 +1,4 @@
- Olá! Eu sou Mary Eduarda 👋
+ Olá! Eu sou Maria Eduarda 👋
 
 Estudante de **Ciência da Computação** e **Física**, construindo minha formação nas áreas de tecnologia e física
 
