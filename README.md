@@ -7,7 +7,7 @@ Atualmente estou desenvolvendo meus conhecimentos em Ciência da Computação e,
  Sobre mim
 
 - 🎓 Graduanda em Ciência da Computação;
-- 🔭 Estudante de Física;
+- 🔭 Graduanda em bacharel de Física;
 - 💻 Em formação na área de desenvolvimento full stack;
 - 📚 Interesse em programação, tecnologia, matemática e física;
 - 🧠 Interesse na aplicação da computação em problemas físicos como holografia e astrofísica computacional;
